@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: movie-catalog-eureka-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: asing394
+Implementation-Vendor-Id: com.capgemini.eurekaserver
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/movie-catalog-eureka-server
+Created-By: Maven Integration for Eclipse
+

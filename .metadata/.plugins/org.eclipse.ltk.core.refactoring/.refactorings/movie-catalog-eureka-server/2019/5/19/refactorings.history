@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;movie-catalog-eureka-server&apos;&#x0D;&#x0A;- Original project: &apos;movie-catalog-eureka-server&apos;&#x0D;&#x0A;- Original element: &apos;movie-catalog-eureka-server/src/main/java/com.capgemini.eurekaserver.moviecatalogeurekaserver.com.capgemini.eurekaserver&apos;" description="Delete element" element1="/src\/main\/java&lt;com.capgemini.eurekaserver.moviecatalogeurekaserver.com.capgemini.eurekaserver" element2="/src\/main\/java&lt;com.capgemini.eurekaserver.moviecatalogeurekaserver.com.capgemini" element3="/src\/main\/java&lt;com.capgemini.eurekaserver.moviecatalogeurekaserver.com" element4="/src\/main\/java&lt;com.capgemini.eurekaserver.moviecatalogeurekaserver" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1557233055411" subPackages="false" version="1.0"/>
+</session>
